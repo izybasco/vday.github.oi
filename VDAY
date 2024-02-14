@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title> Happy Valentine's </title>
+
+</head>
+
+<body>
+  
+  <body>
+  <style>
+body {
+  background-image: url('bg1.jpg');
+  background-size: cover;
+}
+</style>
